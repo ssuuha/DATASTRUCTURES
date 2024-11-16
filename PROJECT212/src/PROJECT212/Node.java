@@ -28,6 +28,6 @@ class Node<T> {
 	}
 
 	public void setNext(Node<T> next) {
-		this.next =next;
+		this.next = next;
 	}
 }
